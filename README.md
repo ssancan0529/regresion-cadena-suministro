@@ -15,3 +15,6 @@ Estandarización de variables, minimización del error cuadrático, gradiente y 
 4. Ejecutar `python FINAL_PROJECT_CODE.py`.
 
 El conjunto de datos original y los resultados de ejecución no están adjuntos; no se afirman métricas predictivas ni resultados verificados.
+
+## Script SQL
+Crear primero PROJECT_OPT_NUM e importar el dataset original a dbo.supply_chain_model. Ejecutar `SQLQuery2.sql` en una base de pruebas: recrea la tabla de regresión y crea la tabla de resultados. No incluye el dataset original.
